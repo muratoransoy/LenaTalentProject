@@ -1,0 +1,51 @@
+﻿@model LenaTalent.Entities.Models.ViewModel.LoginViewModel
+@{
+    ViewData["Title"] = "Login";
+}
+
+<h1>Login</h1>
+<hr />
+<form method="post">
+    <div class="row">
+        <div class="col-md-3">
+            @Html.LabelFor(x=>x.UsernameOrEmail)
+        </div>
+        <div class="col-md-9">
+            @*            @Html.EditorFor(x=>x.UsernameOrEmail)*@
+            <input asp-for="UsernameOrEmail" type="text" placeholder="Username Or Email" />
+          @if (ViewData.ModelState["UsernameOrEmail"] != null && ViewData.ModelState["UsernameOrEmail"].Errors.Count > 0)
+{
+    <div class="text-danger">
+        @ViewData.ModelState["UsernameOrEmail"].Errors[0].ErrorMessage
+    </div>
+}
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            @Html.LabelFor(x=>x.Password)
+        </div>
+        <div class="col-md-9">
+            @Html.EditorFor(x=>x.Password)
+            @if (ViewData.ModelState["Password"] != null && ViewData.ModelState["Password"].Errors.Count > 0)
+            {
+        <div class="text-danger">
+                    @ViewData.ModelState["Password"].Errors[0].ErrorMessage
+        </div>
+            }
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            @Html.LabelFor(x=>x.RememberMe)
+        </div>
+        <div class="col-md-9">
+            @Html.CheckBoxFor(x=>x.RememberMe)
+        </div>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Login</button>
+    </div>
+</form>

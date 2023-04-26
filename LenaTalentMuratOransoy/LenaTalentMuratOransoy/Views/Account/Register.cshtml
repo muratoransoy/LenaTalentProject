@@ -1,0 +1,57 @@
+﻿@model LenaTalent.Entities.Models.ViewModel.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h1>Register</h1>
+<hr />
+<form method="post">
+    <div class="row">
+        <div class="col-md-3">
+            @Html.LabelFor(x=>x.Name)
+        </div>
+        <div class="col-md-9">
+            @Html.EditorFor(x=>x.Name)
+            @Html.ValidationMessageFor(x => x.Name, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            @Html.LabelFor(x=>x.Surname)
+        </div>
+        <div class="col-md-9">
+            @Html.EditorFor(x=>x.Surname)
+            @Html.ValidationMessageFor(x => x.Surname, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            @Html.LabelFor(x=>x.Username)
+        </div>
+        <div class="col-md-9">
+            @Html.EditorFor(x=>x.Username)
+            @Html.ValidationMessageFor(x => x.Username, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            @Html.LabelFor(x=>x.Email)
+        </div>
+        <div class="col-md-9">
+            @Html.EditorFor(x=>x.Email)
+            @Html.ValidationMessageFor(x => x.Email, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            @Html.LabelFor(x=>x.Password)
+        </div>
+        <div class="col-md-9">
+            @Html.EditorFor(x=>x.Password)
+            @Html.ValidationMessageFor(x => x.Password, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary">Register</button>
+    </div>
+</form>

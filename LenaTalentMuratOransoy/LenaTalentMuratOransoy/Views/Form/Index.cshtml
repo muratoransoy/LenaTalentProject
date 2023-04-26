@@ -1,0 +1,42 @@
+﻿@using LenaTalent.Entities.Models.Entities
+@model IEnumerable<Form>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<p>
+    @*Html Tag Helper*@
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            @*Html Helper*@
+            <th>@Html.DisplayNameFor(m=>m.ID)</th>
+            <th>@Html.DisplayNameFor(m=>m.Name)</th>
+            <th>@Html.DisplayNameFor(m=>m.Description)</th>
+            <th>@Html.DisplayNameFor(m=>m.CreatedAt)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(m=>item.ID)</td>
+                <td>@Html.DisplayFor(m=>item.Name)</td>
+                <td>@Html.DisplayFor(m=>item.Description)</td>
+                <td>@Html.DisplayFor(m=>item.CreatedAt)</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.ID">Form Doldur</a>
+
+                </td>
+            </tr>
+ 
+        }
+   
+    </tbody>
+</table>
+
+
+
