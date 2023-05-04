@@ -1,0 +1,17 @@
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.AssemblyInfo.cs
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\bin\Debug\net6.0\LenaTalent.Business.deps.json
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\bin\Debug\net6.0\LenaTalent.Business.runtimeconfig.json
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\bin\Debug\net6.0\LenaTalent.Business.dll
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\bin\Debug\net6.0\LenaTalent.Business.pdb
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\bin\Debug\net6.0\LenaTalent.Entities.dll
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\bin\Debug\net6.0\LenaTalent.Entities.pdb
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.csproj.CopyComplete
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.dll
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\refint\LenaTalent.Business.dll
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.pdb
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\LenaTalent.Business.genruntimeconfig.cache
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Business\obj\Debug\net6.0\ref\LenaTalent.Business.dll

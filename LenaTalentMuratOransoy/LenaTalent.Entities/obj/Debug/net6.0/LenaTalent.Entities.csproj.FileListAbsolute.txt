@@ -1,0 +1,14 @@
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\LenaTalent.Entities.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\LenaTalent.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\LenaTalent.Entities.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\LenaTalent.Entities.AssemblyInfo.cs
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\LenaTalent.Entities.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\bin\Debug\net6.0\LenaTalent.Entities.deps.json
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\bin\Debug\net6.0\LenaTalent.Entities.runtimeconfig.json
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\bin\Debug\net6.0\LenaTalent.Entities.dll
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\bin\Debug\net6.0\LenaTalent.Entities.pdb
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\LenaTalent.Entities.dll
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\refint\LenaTalent.Entities.dll
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\LenaTalent.Entities.pdb
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\LenaTalent.Entities.genruntimeconfig.cache
+C:\Users\murat\Desktop\AspNetCoreWebApi\Applications\LenaTalentMuratOransoy\LenaTalent.Entities\obj\Debug\net6.0\ref\LenaTalent.Entities.dll
